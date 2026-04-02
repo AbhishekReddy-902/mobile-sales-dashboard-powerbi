@@ -58,7 +58,9 @@ Power Query & DAX.
 ## 📸 Dashboard Preview
 
 ![Dashboard Screenshot](Screenshot%202026-03-15%20203749.png)
+
 ![Dashboard Screenshot](Screenshot%202026-03-15%20203828.png)
+
 ![Dashboard Screenshot](Screenshot%202026-03-15%20203900.png)
 
 ---
