@@ -4,15 +4,34 @@
 ---
 
 ## 📌 Project Overview
-Developed an end-to-end Power BI dashboard to analyze 
-mobile sales data, customer behavior, and regional performance.
+Built an end-to-end Mobile Sales Intelligence 
+Dashboard analyzing ₹769M total sales, 19K units 
+& 4K transactions across India — using Power BI, 
+Power Query & DAX.
 
 ---
 
+## 🔑 Key Findings
+
+- Total Sales: ₹769M | Quantity: 19K | 
+  Transactions: 4K | Avg Price: ₹40.11K
+- Top Brand: Apple ₹161.6M | 783 transactions
+- Top Model: iPhone 5E ₹60M
+- UPI leads payments: 26.36%
+- MTD Growth: ₹0.7M → ₹20.8M
+- 2023 Sales: ₹253M vs Previous Year ₹261M
+
+
+
 ## 🎯 Key Achievements
 
-- 🔄 **Data Transformation** — Used Power Query to clean 
-  and model data from multiple sources
+-  Data Transformation — Cleaned & modeled 
+   ₹769M sales data from multiple sources 
+   using Power Query
+
+- 🔄 **Data Transformation** — Data Transformation — Cleaned & modeled 
+   ₹769M sales data from multiple sources 
+   using Power Query
 
 - 📈 **Advanced DAX** — Implemented Time Intelligence 
   functions (MTD, Same Period Last Year) to track 
